@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on my DSA skills.  
   
 
-- 🌱 I’m currently working on my frontend skills. Learning React Js  
+- 🌱 I’m currently working on my frontend skills. Learning React Js.
   
 
-- 🧠 I am also developing an interest in Machine Learning  
+- 🧠 I am also developing an interest in Machine Learning.
   
 
-- ⚡ Fun fact: I prefer old songs.💕  
+- ⚡ Fun fact: I prefer old songs.💕
   
 
 <br/>  
