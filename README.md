@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Kripa Sindhu, a junior year computer science student 👨‍💻 at IIIT Guwahati. 🚀</div>  
@@ -12,7 +10,7 @@
 - 🌱 I’m currently working on my frontend skills. Learning React Js  
   
 
-- 🧠 I am also developing interest in Machine Learning  
+- 🧠 I am also developing an interest in Machine Learning  
   
 
 - ⚡ Fun fact: I prefer old songs.💕  
